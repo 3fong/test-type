@@ -118,4 +118,4 @@ linux:
 
 ### 参考资料
 
-[test-types]{https://k6.io/docs/test-types}
+[test-types](https://k6.io/docs/test-types)
